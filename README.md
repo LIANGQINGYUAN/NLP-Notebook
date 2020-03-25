@@ -2,7 +2,7 @@
 
 学习路线
 
-<img src="img/road_map.png" alt="image-20200325111650927" style="zoom:50%;" />
+<img src="img/road_map.png" alt="image-road_map" style="zoom:30%;" />
 
 1、Seq2Seq模型  
 - 机器翻译
