@@ -15,7 +15,13 @@
 - 机器翻译中的Transformer
 
 4、BERT模型
+
 - 中文微博情感分类
 
 5、ALBERT模型
 - 推特情感分类
+
+6、多模型的融合
+
+- BERT+ALBERT：加权平均法的实践  
+- Stacking & Blending技术
