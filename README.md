@@ -21,7 +21,7 @@
 5、ALBERT模型
 - 推特情感分类
 
-6、多模型的融合
+6、多模型的融合(Ensemble)
 
-- BERT+ALBERT：加权平均法的实践  
+- 加权平均法的实践 : BERT+ALBERT 
 - Stacking & Blending技术
